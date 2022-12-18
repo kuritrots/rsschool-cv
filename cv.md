@@ -16,18 +16,15 @@ so I hope that I will pass this way with dignity</p>
 ## Skills:
   - HTML5 and CSS3
   - JavaScript (Basic)
-  - Python (Basic)
-  - C++ (Basic)
-  - C#/.NET Core 5 (Basic)
   - Git, GitHub
-  - VS Code, Visual Studio, Atom, WebStorm
+  - VS Code, Atom, WebStorm
   - Figma
 
 ## My Code:
-<p>Create a function truncate ```(str, maxlength)``` that checks the length of the string and, 
-if it exceeds maxlength, replaces the end of the string with "..." so that its length is equal to maxlength.</p>
+>Create a `function truncate (str, maxlength)` that checks the length of the string and, 
+if it exceeds maxlength, replaces the end of the string with "..." so that its length is equal to maxlength.
 
-```
+```js
 function truncate(str, maxlength){
   if(str.length > maxlength){
     return (str.slice(0, maxlength + 1) + '...')
@@ -37,16 +34,16 @@ function truncate(str, maxlength){
 
 let text = 'Hello, World!'
 console.log( truncate(text, 10) )
-```js
+```
 
 ## Education:
-  - RS Scholl
-  - LearnJavaScript
-  - Codewars
-  - CSS50
-  - w3schools
-  - html academy
-  - Haxlet
+  - [RS Scholl](https://rs.school/)
+  - [LearnJavaScript](https://javascript.info/)
+  - [Codewars](https://www.codewars.com/dashboard)
+  - [CS50](https://cs50.harvard.edu/x/2022/weeks/0/)
+  - [w3schools](https://www.w3schools.com/)
+  - [html academy](https://htmlacademy.ru/?utm_source=google&utm_medium=cpc&utm_campaign=all_brand&keyword=html%20academy&gclid=CjwKCAiAkfucBhBBEiwAFjbkr6WNm0gXLxIesH06LcgdmQlt04OC59g4pdRvchq49rqJZr1llSlhQRoC6ZMQAvD_BwE)
+  - [Haxlet](https://ru.hexlet.io/)
   
 ## Languages:
   - English (Level A2)
