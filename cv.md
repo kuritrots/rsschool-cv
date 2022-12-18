@@ -1,27 +1,26 @@
 # Kyrylo Trots
-
 ## Front-End Developer (Beginner)
 
----
+***
 
 ### Contact informatiom:
 <ul>
    <li>phone: 
       <ul>
-         <li>***+38 0956915093 (UA)***</li>
-         <li>***+49 015238465548 (DE)***</li>
+         <li><strong>+38 0956915093 (UA)</strong></li>
+         <li><strong>+49 015238465548 (DE)</strong></li>
       </ul>
    </li>
    <li>email:
       <ul>
-         <li>***cyril.trots@gmail.com***</li>
-         <li>***kuri.programmer@gmail.com***</li>
+         <li><strong>cyril.trots@gmail.com</strong></li>
+         <li><strong>kuri.programmer@gmail.com</strong></li>
       </ul>
    </li>
-   <li>telegram: **@ktrots**</li>
-   <li>WhatsApp: **+49 015238465548 (kTrots)**</li>
-   <li>GitHub: **kuritrots**</li>
-   <li>Discord: **R2D2#3593**</li>
+   <li>telegram: <strong>@ktrots</strong></li>
+   <li>WhatsApp: <strong>+49 015238465548 (kTrots)</strong></li>
+   <li>GitHub: <strong>kuritrots</strong></li>
+   <li>Discord: <strong>R2D2#3593</strong></li>
 </ul>
 
 ### About:
