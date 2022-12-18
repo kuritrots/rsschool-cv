@@ -1,22 +1,37 @@
 # Kyrylo Trots
 
 ## Front-End Developer (Beginner)
-==================================
 
-#### Contact informatiom:
-- phone: ** +38 0956915093 (UA) **
-- email: ** cyril.trots@gmail.com **
-- telegram: ** @ktrots **
-- WhatsApp: ** +49 015238465548 (kTrots) **
-- GitHub: ** kuritrots **
-- Discord: ** R2D2#3593 **
+---
+
+### Contact informatiom:
+<ul>
+   <li>phone: 
+      <ul>
+         <li>***+38 0956915093 (UA)***</li>
+         <li>***+49 015238465548 (DE)***</li>
+      </ul>
+   </li>
+   <li>email:
+      <ul>
+         <li>***cyril.trots@gmail.com***</li>
+         <li>***kuri.programmer@gmail.com***</li>
+      </ul>
+   </li>
+   <li>telegram: **@ktrots**</li>
+   <li>WhatsApp: **+49 015238465548 (kTrots)**</li>
+   <li>GitHub: **kuritrots**</li>
+   <li>Discord: **R2D2#3593**</li>
+</ul>
 
 ### About:
 <p>I studied at Karazin University in Kharkiv.<br/> 
 My profile education was social geography, GIS, recreation and tourism.<br/>
+
 At the university I dealt with such programming languages as Basic and Pascal.<br/>
-I independently got acquainted with ** C#/.NET **, ** C/C++ ** and ** Python ** languages,<br/> 
-but still decided to choose the front-end direction and study ** JS ** and ** Nodejs **.<br/>
+
+I independently got acquainted with **C#/.NET**, **C/C++** and **Python** languages,<br/> 
+but still decided to choose the front-end direction and study **JS** and **Nodejs**.<br/>
 
 I am just starting my way in programming,<br/>
 so I hope that I will pass this way with dignity</p>
