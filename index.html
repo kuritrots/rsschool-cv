@@ -8,8 +8,119 @@
 	<title>Kyrylo Trots CV</title>
 </head>
 <body>
+	<!--HEADER-->
+	<header class="header">
+		<!--HEADER CONTAINER-->
+		<div class="container">
+			<!--NAVIGATION-->
+			<nav class="nav">
+				<ul class="nav-list">
+					<li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
+					<li class="nav-item"><a href="#" class="nav-link">About</a></li>
+					<li class="nav-item"><a href="#" class="nav-link">Skills</a></li>
+					<li class="nav-item"><a href="#" class="nav-link">Code</a></li>
+					<li class="nav-item"><a href="#" class="nav-link">Education</a></li>
+					<li class="nav-item"><a href="#" class="nav-link">Languages</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
 
-	
+	<!--MAIN-->
+	<main class="main">
+		<div class="container">
 
+			<!--profile-->
+			<section class="section" id="profile">
+				<h1 class="section-title">Kyrylo Trots</h1>
+			</section>
+			
+			<!--contact-->
+			<section class="section" id="contact">
+				<h2 class="section-title">Contact</h2>
+
+				<ul>
+					<li>Phone: +380956915093 UA / +49015238465548 DE</li>
+					<li>E-mail: cyril.trots@gmail.com</li>
+					<li>Telegram: @ktrots</li>
+					<li>WhatsApp: +49015238465548 (kTrots)</li>
+					<li>GitHub:<a href="https://github.com/kuritrots">kirtrots</a></li>
+					<li>Discord: R2D2#3593</li>
+				</ul>
+			</section>
+
+			<!--about-->
+			<section class="section" id="about">
+				<h2 class="section-title">About</h2>
+				<p>I like to study and learn something new, that's why I am here.<br>
+				I want to change my life and learn to program.<br>
+				My goal is to gain knowledge that would help me in my further work.<br>
+				I am just starting my way in programming, so I hope that I will pass this way with dignity</p>
+			</section>
+
+			<!--skills-->
+			<section class="section" id="skills">
+				<h2 class="section-title">Skills</h2>
+
+				<ul>
+					<li>HTML5 and CSS3</li>
+					<li>JavaScript</li>
+					<li>Git/GitHub</li>
+					<li>Visual Studio Code</li>
+					<li>Figma</li>
+				</ul>
+			</section>
+
+			<!--code-->
+			<section class="section" id="code">
+				<h2 class="section-title">Code</h2>
+
+				<p>Create a function truncate (str, maxlength) that checks the length of the string and,<br>
+				if it exceeds maxlength, replaces the end of the string with “…” <br>
+				so that its length is equal to maxlength.</p>
+
+				<pre>
+					<code>
+						function truncate(str, maxlength){
+							if(str.length > maxlength){
+							return (str.slice(0, maxlength + 1) + '...')
+							}
+							return str
+						}
+						
+						let text = 'Hello, World!'
+						console.log( truncate(text, 10) )
+					</code>
+				</pre>
+			</section>
+
+			<!--education-->
+			<section class="section" id="education">
+				<h2 class="section-title">Education</h2>
+
+				<ul>
+					<li><a href="https://rs.school/">RS-School</a></li>
+					<li><a href="https://javascript.info/">LearnJavaScript</a></li>
+					<li><a href="https://www.codewars.com/">Codewars</a></li>
+					<li><a href="https://cs50.harvard.edu/x/2022/weeks/0/">CS50</a></li>
+					<li><a href="https://www.w3schools.com/">W3-School</a></li>
+					<li><a href="https://htmlacademy.ru/study">HTML-Academy</a></li>
+				</ul>
+			</section>
+
+			<!--languages-->
+			<section class="section" id="languages">
+				<h2 class="section-title">Languages</h2>
+				<p>English (B1 level)</p>
+			</section>
+		</div>
+	</main>
+
+	<!--FOOTER-->
+	<footer class="footer">
+		<div class="container">
+			<div>Footer</div>
+		</div>
+	</footer>
 </body>
 </html>
