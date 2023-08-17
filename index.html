@@ -79,19 +79,24 @@
 				if it exceeds maxlength, replaces the end of the string with “…” <br>
 				so that its length is equal to maxlength.</p>
 
-				<pre>
-					<code>
-						function truncate(str, maxlength){
-							if(str.length > maxlength){
-							return (str.slice(0, maxlength + 1) + '...')
-							}
-							return str
-						}
-						
-						let text = 'Hello, World!'
-						console.log( truncate(text, 10) )
-					</code>
-				</pre>
+				<a href="#" id="show-link">My Solution</a>
+				<div id="code-block">
+					<pre>
+						<code>
+								function truncate(str, maxlength)
+								{
+									if(str.length > maxlength)
+									{
+										return (str.slice(0, maxlength + 1) + '...')
+									}
+									return str
+								}
+								
+								let text = 'Hello, World!'
+								console.log( truncate(text, 10) )
+						</code>
+					</pre>
+				</div>
 			</section>
 
 			<!--education-->
@@ -122,5 +127,7 @@
 			<div>Footer</div>
 		</div>
 	</footer>
+
+	<script src="js/index.js"></script>
 </body>
 </html>

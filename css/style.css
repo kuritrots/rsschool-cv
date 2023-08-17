@@ -48,3 +48,26 @@ body {
 	color:chocolate;
 }
 
+pre {
+	background-color: #2b2b2b;
+	padding: 15px;
+	border: 1px solid #444;
+	border-radius: 5px;
+	font-family: 'Consolas', monospace;
+	color: #a6e22e;
+	overflow-x: auto;
+  }
+
+  code {
+	display: block;
+	margin: 0 auto;
+	font-size: 14px;
+	white-space: pre-wrap;
+	line-height: 1.4;
+	text-align: left;
+  }
+
+#code-block {
+	display: none;
+}
+
